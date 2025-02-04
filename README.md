@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ynandwan
 - 👀 I’m interested in Neuro-symbolic AI, distant learning, learning with constraints, partial label learning ...
 - 🌱 I’m currently learning Information Extraction, specifically, Temporal Reasoning over events
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: https://cse.iitd.ac.in/~yatin
 
 <!---
